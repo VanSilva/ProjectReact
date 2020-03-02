@@ -7,10 +7,10 @@ Exemples developed with React Native
 
 ## Install dependencies:
 
-`npm i -g react-native-cli`
-`react-native init exercicios`
-`cd exericios`
-`react-native run-ios / run-android`
+- `npm i -g react-native-cli`
+- `react-native init exercicios`
+- `cd exericios`
+- `react-native run-ios / run-android`
 
 
 
