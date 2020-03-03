@@ -1,7 +1,7 @@
 # ProjectReact
 Exemples developed with React Native
 
-## Configs on PowerShell Permisions:
+## Configs on PowerShell Permissions:
 
 `Set-ExecutionPolicy Unrestricted`
 
@@ -12,5 +12,9 @@ Exemples developed with React Native
 - `cd exericios`
 - `react-native run-ios / run-android`
 
+## Environment variables
 
+%ANDROID_HOME%
+%JAVA_HOME%
 
+https://www.mathworks.com/help/supportpkg/android/ug/install-android-sdk-platform-packages-and-sdk-tools.html
