@@ -1,11 +1,11 @@
-import React from 'react'
+import React, {Component} from 'react'
 import { View, StyleSheet } from 'react-native'
 
-import Simples from './components/Simples'
+import Simples from './components/Simples' //importei o componente Simples
 import ParImpar from './components/ParImpar'
 import { Inverter, MegaSena } from './components/Multi'
 
-export default class App extends React.Component {
+export default class App extends Component {
 	render() {
 		return (
 			<View style={styles.container}>
